@@ -17,7 +17,7 @@
 ## 📫 Let's Connect!
 
 - LinkedIn: [Your LinkedIn Profile](#)
-- Email: [sagarsaini9531@gmail.com](mailto:your.email@example.com)
+- Email: (mailto:sagarsaini9531@gmail.com)
 - GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
 
 💡 _"Passionate about building innovative solutions and exploring the future of AI & Robotics!"_
