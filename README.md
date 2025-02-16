@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Sagar Saini]
+# Hi there! 👋 I'm Sagar Saini
 
 ## 🚀 About Me
 
@@ -6,7 +6,7 @@
 - 📚 Strong interest in **Data Structures & Algorithms (DSA)** using **C++**
 - 💡 Enthusiastic about **Autonomous Vehicles And Drones**
 - 🖥️ Hands-on experience with **Raspberry Pi, Arduino, and Robotics projects**
-- 🌱 Currently working on my **NavDrive** self-driving car project
+@- 🌱 Currently working on my **NavDrive** self-driving car project
 
 ## 🛠️ Skills & Technologies
 
