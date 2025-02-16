@@ -16,7 +16,7 @@
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [Your LinkedIn Profile](#)
+- LinkedIn: [Your LinkedIn Profile](#sagar-saini-621b8a307)
 - [Email](mailto:sagarsaini9531@gmail.com)
 - GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
 
