@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Sagar 
+# Hi there! I'm Sagar 
 
 ## 🚀 About Me
 
