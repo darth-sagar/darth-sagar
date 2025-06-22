@@ -1,4 +1,4 @@
-# Hi there! I'm Sagar saini
+# Hi there! I'm Sagar Saini
 
 ## 🚀 About Me
 
