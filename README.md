@@ -9,7 +9,7 @@
 
 ## 🛠️ Skills & Technologies
 
-- **Programming:** C++, Python, JavaScript
+- **Programming:** C++, Python, JavaScript, TypeScript
 - **Machine Learning:** Pandas, NumPy, Matplotlib, OpenCV
 - **Hardware & IoT:** Raspberry Pi, Arduino, Sensors, Motor Control
 - **Version Control:** Git & GitHub
