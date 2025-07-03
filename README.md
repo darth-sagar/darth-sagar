@@ -18,5 +18,3 @@
 
 - [LinkedIn](https://www.linkedin.com/in/sagar-saini-621b8a307/)
 - [Email](mailto:sagarsaini9531@gmail.com)
-
-💡 _"Passionate about building innovative solutions and exploring the future of AI & Robotics!"_
