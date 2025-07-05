@@ -16,5 +16,4 @@
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/sagar-saini-621b8a307/)
 - [Email](mailto:sagarsaini9531@gmail.com)
