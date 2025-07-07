@@ -15,6 +15,3 @@
 - **Hardware & IoT:** Raspberry Pi, Arduino, Sensors, Motor Control
 - **Version Control:** Git & GitHub
 
-## 📫 Let's Connect!
-
-- [Email](mailto:sagarsaini9531@gmail.com)
