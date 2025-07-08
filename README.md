@@ -12,6 +12,6 @@
 - **Programming:** C++, Python, JavaScript, TypeScript
 - **Web Development Tools:** React.js, Node.js, Next,js,
 - **Machine Learning:** Pandas, NumPy, Matplotlib, OpenCV
-- **Hardware & IoT:** Raspberry Pi, Arduino, Sensors, Motor Control
+- **Hardware & IoT:** Raspberry Pi, Arduino, ESP8266, Sensors
 - **Version Control:** Git & GitHub
 
