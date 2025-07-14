@@ -10,7 +10,7 @@
 ## 🛠️ Skills & Technologies
 
 - **Programming:** C++, Python, JavaScript, TypeScript
-- **Web Development Tools:** React.js, Node.js
+- **Web Development Tools:** React.js, Node.js, mySQL
 - **Machine Learning:** Pandas, NumPy, Matplotlib, OpenCV
 - **Hardware & IoT:** Raspberry Pi, Arduino, ESP8266, Sensors
 - **Version Control:** Git & GitHub
