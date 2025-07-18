@@ -3,9 +3,9 @@
 ## 🚀 About Me
 
 - 🎯 Aspiring Software Developer with a passion for **AI, Machine Learning, and Robotics**
-- 📚 Strong interest in **Data Structures & Algorithms (DSA)** using **C++**
+- 📚 Strong interest in **Data Structures & Algorithms (DSA)** using **C++** and **Web Developement**
 - 💡 Enthusiastic about **Autonomous Vehicles And Drones**
-- 🖥️ Hands-on experience with **Raspberry Pi, Arduino, and Robotics projects**
+- 🖥️ Hands-on experience with **Raspberry Pi, Arduino, ESP32 and Robotics projects**
 
 ## 🛠️ Skills & Technologies
 
