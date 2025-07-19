@@ -1,7 +1,9 @@
-# Hi there! I'm Sagar Saini
+# 👋 Hi there! I'm Sagar Saini
 
-## 🚀 About Me
-
+```
+| Full Stack Developer | ML/AI Enthusiast | Robotics Hobbyist |
+```
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 💡 Passionate about crafting intelligent solutions in AI, Robotics, and Web.
 
 - 🎯 Aspiring Software Developer with a passion for **AI, Machine Learning, and Robotics**
@@ -10,7 +12,7 @@
 - 🖥️ Hands-on experience with **Raspberry Pi, Arduino, ESP32 and Robotics projects**
 
 ## 🛠️ Tech Stack
----
+
 <div style="display: flex; gap: 15px; align-items: center;">
 <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
@@ -43,4 +45,16 @@
 <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" />
 </div>
----
+
+## 🔗 Connect with Me
+
+<div style="display: flex; gap: 15px; align-items: center;">
+<p align="left">
+  <a href="www.linkedin.com/in/sagar-saini-621b8a307" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:work.sagarsaini@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+</div>
