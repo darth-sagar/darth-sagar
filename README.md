@@ -17,7 +17,7 @@
 - **Hardware & IoT:** Raspberry Pi, Arduino, ESP8266, Sensors
 - **Version Control:** Git & GitHub
 - 
-```
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
@@ -51,4 +51,3 @@
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" />
 </div>
 
-```
