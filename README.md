@@ -45,9 +45,10 @@
 <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" />
 </div>
 
+
 ## 🔗 Connect with Me
 
-<div style="display: flex; gap: 15px; align-items: center;" align="center">
+<div style="display: flex; gap: 15px; align-items: center;">
 <p align="left">
   <a href="www.linkedin.com/in/sagar-saini-621b8a307" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -57,3 +58,6 @@
   </a>
 </p>
 </div>
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
