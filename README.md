@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Sagar Saini
+<h1 align="center" >👋 Hi there! I'm Sagar Saini</h1>
 
 ```
 | Full Stack Developer | ML/AI Enthusiast | Robotics Hobbyist |
@@ -48,8 +48,8 @@
 
 ## 🔗 Connect with Me
 
-<div style="display: flex; gap: 15px; align-items: center;">
-<p align="left">
+<div style="display: flex; gap: 15px; align-items: center;" >
+<p align="center">
   <a href="www.linkedin.com/in/sagar-saini-621b8a307" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
