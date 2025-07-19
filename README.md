@@ -1,7 +1,9 @@
 # Hi there! I'm Sagar Saini
 
 ## 🚀 About Me
-
+---
+💡 Passionate about crafting intelligent solutions in AI, Robotics, and Web.
+---
 - 🎯 Aspiring Software Developer with a passion for **AI, Machine Learning, and Robotics**
 - 📚 Strong interest in **Data Structures & Algorithms (DSA)** using **C++** and **Web Developement**
 - 💡 Enthusiastic about **Autonomous Vehicles And Drones**
