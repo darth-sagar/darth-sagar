@@ -4,7 +4,6 @@
 | Full Stack Developer | ML/AI Enthusiast | Robotics Hobbyist |
 ```
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
-💡 Passionate about crafting intelligent solutions in AI, Robotics, and Web.
 
 - 🎯 Aspiring Software Developer with a passion for **AI, Machine Learning, and Robotics**
 - 📚 Strong interest in **Data Structures & Algorithms (DSA)** using **C++** and **Web Developement**
@@ -48,7 +47,7 @@
 
 ## 🔗 Connect with Me
 
-<div style="display: flex; gap: 15px; align-items: center;">
+<div style="display: flex; gap: 15px; align-items: center;" align="center">
 <p align="left">
   <a href="www.linkedin.com/in/sagar-saini-621b8a307" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
