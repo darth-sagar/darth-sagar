@@ -41,15 +41,25 @@
 <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
 <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
 <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
 <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" />
 </div>
 
 
+
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=darth-sagar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=darth-sagar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=darth-sagar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=darth-sagar&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 ## 🔗 Connect with Me
 
 <div style="display: flex; gap: 15px; align-items: center;" >
-<p align="center">
+<p align="left">
   <a href="www.linkedin.com/in/sagar-saini-621b8a307" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
