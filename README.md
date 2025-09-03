@@ -1,7 +1,7 @@
 <h1 align="center" >👋 Hi there! I'm Sagar Saini</h1>
 
 ```
-| Web Developer | ML/AI Enthusiast | Robotics Hobbyist |
+| Full stack Developer | ML/AI Enthusiast | Robotics Hobbyist |
 ```
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
