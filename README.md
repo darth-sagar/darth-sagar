@@ -1,4 +1,4 @@
-<h1 align="center" >👋 Hi there! I'm Sagar Saini</h1>
+<h1 align="center" >👋 Hi there! I'm Sagar saini</h1>
 
 ```
 | Full stack Developer | ML/AI Enthusiast | Robotics Hobbyist |
